@@ -1,5 +1,5 @@
 {
-    "default_model": "lustifySDXLNSFWSFW_v40.safetensors",
+    "default_model": "juggernautXL_v8Rundiffusion.safetensors",
     "default_refiner": "epicphotogasm_ultimateFidelity.safetensors",
     "default_refiner_switch": 0.4,
     "default_loras": [
@@ -44,6 +44,7 @@
     "default_aspect_ratio": "768*1280",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
         "lustifySDXLNSFWSFW_v40.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/4138/lustifyv4Fp16.f5FG.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22lustifySDXLNSFWSFW_v40.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20241011/us-east-1/s3/aws4_request&X-Amz-Date=20241011T193440Z&X-Amz-SignedHeaders=host&X-Amz-Signature=e2da48183001717c68d62f1ccf307934104268535b4cf0b481be8d2fe7f63a88",
         "epicphotogasm_ultimateFidelity.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/81744/epicphotogasmultimat.esiM.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22epicphotogasm_ultimateFidelity.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20241009/us-east-1/s3/aws4_request&X-Amz-Date=20241009T203220Z&X-Amz-SignedHeaders=host&X-Amz-Signature=c64d0bd1d84f97ec301430a6717af69d714c535818b077115f5f414b2a8a7bb2"
     },
