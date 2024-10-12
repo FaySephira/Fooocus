@@ -49,6 +49,7 @@
     },
     "embeddings_downloads": {},
     "lora_downloads": {
+        "photorealistic_nude.safetensors": "https://drive.usercontent.google.com/download?id=1FjBhltA48juBOLucGSqnNfXWUezhyrq6&export=download&authuser=0&confirm=t&uuid=37b35dd5-df05-4024-b131-8430bb8eae6a&at=AN_67v0uTDiEYOMDTvF-1Ntg8q1r%3A1728702643056",
         "SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_V1.safetensors",
         "MissionaryVaginal-v2.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/220490/missionaryvaginalV2.k2a9.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22MissionaryVaginal-v2.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20241009/us-east-1/s3/aws4_request&X-Amz-Date=20241009T170708Z&X-Amz-SignedHeaders=host&X-Amz-Signature=82809d608a3c539f1e25ceda2b33e04a917868ef04616d77eaec96eb284efdb2"
     },
