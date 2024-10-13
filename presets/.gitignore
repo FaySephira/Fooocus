@@ -1,6 +1,7 @@
 *.json
 !anime.json
 !default.json
+!hentai.json
 !lcm.json
 !lightning.json
 !monsters_girls.json
