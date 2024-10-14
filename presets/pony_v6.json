@@ -1,12 +1,12 @@
 {
     "default_model": "ponyDiffusionV6XL.safetensors",
-    "default_refiner": "None",
-    "default_refiner_switch": 0.5,
+    "default_refiner": "hassakuHentaiModel_v13.safetensors",
+    "default_refiner_switch": 0.8,
     "default_vae": "ponyDiffusionV6XL_vae.safetensors",
     "default_loras": [
         [
             true,
-            "None",
+            "Breast_expansion.safetensors",
             1.0
         ],
         [
@@ -44,10 +44,16 @@
     "default_overwrite_step": -1,
     "default_inpaint_engine_version": "None",
     "checkpoint_downloads": {
-        "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors"
+        "ponyDiffusionV6XL.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL.safetensors",
+        "hassakuHentaiModel_v13.safetensors": "https://drive.usercontent.google.com/download?id=1XxNqsJfnrbh51xZvQRyFKl1wjyTJishF&export=download&authuser=2&confirm=t&uuid=e581e892-41b1-4052-9d38-36e9dfb437aa&at=AN_67v12tQRUi1JF55mziGO1klJw:1728840661240"
     },
-    "embeddings_downloads": {},
-    "lora_downloads": {},
+    "embeddings_downloads": {
+        "easynegative.safetensors": "https://drive.usercontent.google.com/download?id=1C1O4GfGQ5FS-UXbd9Ssr9w1zLu6wXo45&export=download&authuser=0",
+        "badhandv4.pt": "https://drive.usercontent.google.com/download?id=1MD36LpY07CsFWCGQU--e-tSs1XhgB0cb&export=download&authuser=0"
+    },
+    "lora_downloads": {
+        "Breast_expansion.safetensors": "https://drive.usercontent.google.com/download?id=1OLuqmLxDggck4XPceTAfxCMfG7qrXV5Y&export=download&authuser=2&confirm=t&uuid=ce7adec0-67be-4714-ad84-ef286bff9b31&at=AN_67v0UprTXQxs-cbzFN_Z7NCrn:1728840401021"
+    },
     "vae_downloads": {
         "ponyDiffusionV6XL_vae.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/ponyDiffusionV6XL_vae.safetensors"
     }

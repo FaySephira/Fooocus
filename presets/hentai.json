@@ -1,7 +1,7 @@
 {
-    "default_model": "hassakuHentaiModel_v13.safetensors",
-    "default_refiner": "None",
-    "default_refiner_switch": 0.5,
+    "default_model": "animaPencilXL_v500.safetensors",
+    "default_refiner": "hassakuHentaiModel_v13.safetensors",
+    "default_refiner_switch": 0.8,
     "default_loras": [
         [
             true,
@@ -47,7 +47,10 @@
         "animaPencilXL_v500.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v500.safetensors",
         "hassakuHentaiModel_v13.safetensors": "https://drive.usercontent.google.com/download?id=1XxNqsJfnrbh51xZvQRyFKl1wjyTJishF&export=download&authuser=2&confirm=t&uuid=e581e892-41b1-4052-9d38-36e9dfb437aa&at=AN_67v12tQRUi1JF55mziGO1klJw:1728840661240"
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "easynegative.safetensors": "https://drive.usercontent.google.com/download?id=1C1O4GfGQ5FS-UXbd9Ssr9w1zLu6wXo45&export=download&authuser=0",
+        "badhandv4.pt": "https://drive.usercontent.google.com/download?id=1MD36LpY07CsFWCGQU--e-tSs1XhgB0cb&export=download&authuser=0"
+    },
     "lora_downloads": {
         "Breast_expansion.safetensors": "https://drive.usercontent.google.com/download?id=1OLuqmLxDggck4XPceTAfxCMfG7qrXV5Y&export=download&authuser=2&confirm=t&uuid=ce7adec0-67be-4714-ad84-ef286bff9b31&at=AN_67v0UprTXQxs-cbzFN_Z7NCrn:1728840401021",
         "maron.safetensors": "https://drive.usercontent.google.com/download?id=1PuOg9XXXDeL39b_XXqrtovuvPLVjvR-R&export=download&authuser=2&confirm=t&uuid=740f08f9-b72d-46df-b46d-67379bd54737&at=AN_67v1dQuVVCvoww4-fe97aSlEy:1728840451906"
