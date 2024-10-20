@@ -5,13 +5,13 @@
     "default_loras": [
         [
             true,
-            "Breast_expansion.safetensors",
+            "hyperbreasts_v6.safetensors",
             1.0
         ],
         [
             true,
-            "maron.safetensors",
-            1.0
+            "Better_BHJ_r2-000008.safetensors",
+            0.8
         ],
         [
             true,
@@ -20,12 +20,12 @@
         ],
         [
             true,
-            "None",
-            1.0
+            "POUF_1.0.safetensors",
+            1.2
         ],
         [
             true,
-            "None",
+            "rvc4FLUX.safetensors",
             1.0
         ]
     ],
@@ -53,8 +53,11 @@
     },
     "lora_downloads": {
         "Breast_expansion.safetensors": "https://drive.usercontent.google.com/download?id=1OLuqmLxDggck4XPceTAfxCMfG7qrXV5Y&export=download&authuser=2&confirm=t&uuid=ce7adec0-67be-4714-ad84-ef286bff9b31&at=AN_67v0UprTXQxs-cbzFN_Z7NCrn:1728840401021",
-        "maron.safetensors": "https://drive.usercontent.google.com/download?id=1PuOg9XXXDeL39b_XXqrtovuvPLVjvR-R&export=download&authuser=2&confirm=t&uuid=740f08f9-b72d-46df-b46d-67379bd54737&at=AN_67v1dQuVVCvoww4-fe97aSlEy:1728840451906",
-        "sagging-illustrious-v0.3.safetensors": "https://drive.usercontent.google.com/download?id=1PmRWvjXGULMKuXaB-IJhZk7ThUNayLAj&export=download&authuser=2&confirm=t&uuid=4b050554-a903-48a3-8495-472e5f0f43a4&at=AN_67v3Jtz5tilvlmgWP2JmbAxEW:1728762942257"
+        "sagging-illustrious-v0.3.safetensors": "https://drive.usercontent.google.com/download?id=1PmRWvjXGULMKuXaB-IJhZk7ThUNayLAj&export=download&authuser=2&confirm=t&uuid=4b050554-a903-48a3-8495-472e5f0f43a4&at=AN_67v3Jtz5tilvlmgWP2JmbAxEW:1728762942257",
+        "Better_BHJ_r2-000008.safetensors": "https://drive.usercontent.google.com/download?id=13CLiFkCSfp0HrSh7LzOBHPAnswlcESRo&export=download&authuser=2&confirm=t&uuid=d59692dc-526a-459c-93ad-a851a30eb6c0&at=AN_67v36-rEXFjJeqkjTq67mTo1z:1729449921138",
+        "hyperbreasts_v6.safetensors": "https://drive.usercontent.google.com/download?id=1xA0J0GPp6ZXIG5CSHOGO7dgYtaF-OiDt&export=download&authuser=2&confirm=t&uuid=da64eaaa-3038-4649-a8ad-858fe289b893&at=AN_67v2IZZOuvn7R1NLZhQuB5K8k:1729450024347",
+        "rvc4FLUX.safetensors": "https://drive.usercontent.google.com/download?id=1F2doiriAi6b6LHzdB7CaiNpQ__jpacPC&export=download&authuser=2&confirm=t&uuid=aeebc22a-932f-432c-930c-3150794cf518&at=AN_67v0Vv3_Osp8JN708u2baUvVD:1729450053427",
+        "POUF_1.0.safetensors": "https://drive.usercontent.google.com/download?id=1RFoWxZxC4ZEBLtFTLT8-Z0RRnx1LXrCt&export=download&authuser=2&confirm=t&uuid=210a276f-bdd9-488b-869d-238f7e335157&at=AN_67v37cSE8czcCkbYiQoM1Q6PW:1729450081764"
     },
     "previous_default_models": [
         "animaPencilXL_v400.safetensors",
