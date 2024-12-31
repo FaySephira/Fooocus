@@ -1,32 +1,32 @@
 {
     "default_model": "animaPencilXL_v500.safetensors",
-    "default_refiner": "hassakuHentaiModel_v13.safetensors",
+    "default_refiner": "hardcoreHentai13_v13Baked.safetensors",
     "default_refiner_switch": 0.8,
     "default_loras": [
         [
             true,
-            "hyperbreasts_v6.safetensors",
+            "Anime_Hentai_Series_Style_PONY.safetensors",
             1.0
         ],
         [
             true,
-            "Better_BHJ_r2-000008.safetensors",
-            0.8
-        ],
-        [
-            true,
-            "sagging-illustrious-v0.3.safetensors",
-            0.8
-        ],
-        [
-            true,
-            "character_sheet.safetensors",
-            0.9
-        ],
-        [
-            true,
-            "rvc4FLUX.safetensors",
+            "Expressive_H-000001.safetensors",
             1.0
+        ],
+        [
+            false,
+            "Gegera_Pony.safetensors",
+            1.0
+        ],
+        [
+            false,
+            "oppai_v0.1-pony.safetensors",
+            1.0
+        ],
+        [
+            true,
+            "Penis Size_alpha1.0_rank4_noxattn_last.safetensors",
+            -1.3
         ]
     ],
     "default_cfg_scale": 6.0,
@@ -45,19 +45,21 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "animaPencilXL_v500.safetensors": "https://huggingface.co/mashb1t/fav_models/resolve/main/fav/animaPencilXL_v500.safetensors",
-        "hassakuHentaiModel_v13.safetensors": "https://drive.usercontent.google.com/download?id=1XxNqsJfnrbh51xZvQRyFKl1wjyTJishF&export=download&authuser=2&confirm=t&uuid=e581e892-41b1-4052-9d38-36e9dfb437aa&at=AN_67v12tQRUi1JF55mziGO1klJw:1728840661240"
+        "hardcoreHentai13_v13Baked.safetensors": "https://drive.usercontent.google.com/download?id=1M2jrYVPw-wjnZ6QJmqmObKKSaTfup4AZ&export=download&authuser=2&confirm=t&uuid=55fd9928-2dab-4847-899d-1873e9e049ad&at=APvzH3oSk9Ez1B1hr0DQ4mHO2Oq8:1735676075454"
     },
     "embeddings_downloads": {
         "easynegative.safetensors": "https://drive.usercontent.google.com/download?id=1C1O4GfGQ5FS-UXbd9Ssr9w1zLu6wXo45&export=download&authuser=0",
         "badhandv4.pt": "https://drive.usercontent.google.com/download?id=1MD36LpY07CsFWCGQU--e-tSs1XhgB0cb&export=download&authuser=0"
     },
     "lora_downloads": {
-        "Breast_expansion.safetensors": "https://drive.usercontent.google.com/download?id=1OLuqmLxDggck4XPceTAfxCMfG7qrXV5Y&export=download&authuser=2&confirm=t&uuid=ce7adec0-67be-4714-ad84-ef286bff9b31&at=AN_67v0UprTXQxs-cbzFN_Z7NCrn:1728840401021",
-        "sagging-illustrious-v0.3.safetensors": "https://drive.usercontent.google.com/download?id=1PmRWvjXGULMKuXaB-IJhZk7ThUNayLAj&export=download&authuser=2&confirm=t&uuid=4b050554-a903-48a3-8495-472e5f0f43a4&at=AN_67v3Jtz5tilvlmgWP2JmbAxEW:1728762942257",
-        "Better_BHJ_r2-000008.safetensors": "https://drive.usercontent.google.com/download?id=13CLiFkCSfp0HrSh7LzOBHPAnswlcESRo&export=download&authuser=2&confirm=t&uuid=d59692dc-526a-459c-93ad-a851a30eb6c0&at=AN_67v36-rEXFjJeqkjTq67mTo1z:1729449921138",
-        "hyperbreasts_v6.safetensors": "https://drive.usercontent.google.com/download?id=1xA0J0GPp6ZXIG5CSHOGO7dgYtaF-OiDt&export=download&authuser=2&confirm=t&uuid=da64eaaa-3038-4649-a8ad-858fe289b893&at=AN_67v2IZZOuvn7R1NLZhQuB5K8k:1729450024347",
-        "rvc4FLUX.safetensors": "https://drive.usercontent.google.com/download?id=1F2doiriAi6b6LHzdB7CaiNpQ__jpacPC&export=download&authuser=2&confirm=t&uuid=aeebc22a-932f-432c-930c-3150794cf518&at=AN_67v0Vv3_Osp8JN708u2baUvVD:1729450053427",
-        "character_sheet.safetensors": "https://drive.usercontent.google.com/download?id=1Sh2UexIo51XILSXXLfCLY_td-zCRnLTM&export=download&authuser=2&confirm=t&uuid=c45d43c1-2690-4e14-9b57-1352241f42ea&at=AENtkXbrSwQ6qGeS0kXUjiZZK-jp:1731095118463"
+        "Anime_Hentai_Series_Style_PONY.safetensors": "https://drive.usercontent.google.com/download?id=1MoAjXWvTahAAeHtqBzPPRWjqOFJF4Lf-&export=download&authuser=2&confirm=t&uuid=1f5d1a19-a4ce-4125-aeb4-9f1e2d5ce934&at=APvzH3rZSQOpqWz61M9PVJUzM68i:1735676371385",
+        "Expressive_H-000001.safetensors": "https://drive.usercontent.google.com/download?id=1yfHX137eYuOs7i3eDrQjLOzlwGyiZdeX&export=download&authuser=2&confirm=t&uuid=66be1f4b-9f5b-45d3-be0c-9450fa380d72&at=APvzH3o6KJrAxsO1Fi6x2DtzNFKc:1735676501268",
+        "Gegera_Pony.safetensors": "https://drive.usercontent.google.com/download?id=1r9S3zaaZLxzMoL_gEyGfMb7uEhdyAv3m&export=download&authuser=2&confirm=t&uuid=5c9d6e7e-3bcb-4cef-bc36-4339a6ee8ef2&at=APvzH3oyBHP8x1Xuu1r42EXl5_P9:1735676705466",
+        "oppai_v0.1-pony.safetensors": "https://drive.usercontent.google.com/download?id=1ooSj0E-Z5HYo6qxYqLVFinVG93ZJFXnW&export=download&authuser=2&confirm=t&uuid=bce3dfbf-632b-4bf4-83f4-4a6ed5a0221f&at=APvzH3oinlHvX-_-3v1fToOQE-Rr:1735676885066",
+        "titfuck_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1e0WIMWl__zi8_d_T1BDwNNzR_7FPVYfj&export=download&authuser=2&confirm=t&uuid=8036565b-5ccf-4d3b-983e-73337ac9b2db&at=APvzH3qhT7pylZzLzKDwQysQbsDU:1735676986528",
+        "Penis Size_alpha1.0_rank4_noxattn_last.safetensors": "https://drive.usercontent.google.com/download?id=1ZU0hYR4QHCzbe6tGQV36SEJ_GOFGsyDC&export=download&authuser=2&confirm=t&uuid=7d962d4f-13e1-4d65-a0d5-19c3946f0af8&at=APvzH3oRrhb6KApgLqup7NXLqqQ6:1735677125781",
+        "shirtup.safetensors": "https://drive.usercontent.google.com/download?id=1RPsEPmSegydO2gpjCNOkEqp3ilRutwpt&export=download&authuser=2&confirm=t&uuid=1313e307-5a77-4571-a021-3a66b240aa45&at=APvzH3rb8LxjhmLYb8_gg4Ep1H9u:1735677195040",
+        "Big_Saggy_Breasts_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1CtPT0fc9jdyfB_XADLssgv-cOgGWtNHq&export=download&authuser=2&confirm=t&uuid=12a2bb20-4b06-4d79-bc89-f0ac08e132c5&at=APvzH3pxVV-iDl64fkGB05KaTbwA:1735677241325"
     },
     "previous_default_models": [
         "animaPencilXL_v400.safetensors",

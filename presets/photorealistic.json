@@ -10,22 +10,22 @@
         ],
         [
             true,
-            "rvc4FLUX.safetensors",
+            "Expressive_H-000001.safetensors",
             1.0
         ],
         [
             true,
-            "Better_BHJ_r2-000008.safetensors",
-            0.8
+            "Big_Saggy_Breasts_SDXL.safetensors",
+            1.0
         ],
         [
-            true,
-            "sagging-illustrious-v0.3.safetensors",
-            0.8
+            false,
+            "Penis Size_alpha1.0_rank4_noxattn_last.safetensors",
+            -1.3
         ],
         [
-            true,
-            "hyperbreasts_v6.safetensors",
+            false,
+            "titfuck_SDXL.safetensors",
             1.0
         ]
     ],
@@ -54,12 +54,13 @@
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "add_detail.safetensors": "https://drive.usercontent.google.com/download?id=1537mAk4n1D0uVOij7VNFEeQfo450cCMl&export=download&authuser=2&confirm=t&uuid=6477f5bd-c822-4481-915d-4f3af92d40ca&at=AN_67v0VtF4L1zpdaYMRf1VrYFON:1728763158918",
-        "sagging-illustrious-v0.3.safetensors": "https://drive.usercontent.google.com/download?id=1PmRWvjXGULMKuXaB-IJhZk7ThUNayLAj&export=download&authuser=2&confirm=t&uuid=4b050554-a903-48a3-8495-472e5f0f43a4&at=AN_67v3Jtz5tilvlmgWP2JmbAxEW:1728762942257",
-        "exp1-000003.safetensors": "https://drive.usercontent.google.com/download?id=1Vis_6S4taIDDvRsyxhATM_cV_LiNx-Dx&export=download&authuser=2&confirm=t&uuid=60730013-55c9-4664-ac6d-921a20bf2b26&at=AN_67v10U7OQIrvTUfFELB0kNxnA:1728763094258",
-        "Better_BHJ_r2-000008.safetensors": "https://drive.usercontent.google.com/download?id=13CLiFkCSfp0HrSh7LzOBHPAnswlcESRo&export=download&authuser=2&confirm=t&uuid=d59692dc-526a-459c-93ad-a851a30eb6c0&at=AN_67v36-rEXFjJeqkjTq67mTo1z:1729449921138",
-        "hyperbreasts_v6.safetensors": "https://drive.usercontent.google.com/download?id=1xA0J0GPp6ZXIG5CSHOGO7dgYtaF-OiDt&export=download&authuser=2&confirm=t&uuid=da64eaaa-3038-4649-a8ad-858fe289b893&at=AN_67v2IZZOuvn7R1NLZhQuB5K8k:1729450024347",
-        "rvc4FLUX.safetensors": "https://drive.usercontent.google.com/download?id=1F2doiriAi6b6LHzdB7CaiNpQ__jpacPC&export=download&authuser=2&confirm=t&uuid=aeebc22a-932f-432c-930c-3150794cf518&at=AN_67v0Vv3_Osp8JN708u2baUvVD:1729450053427",
-        "POUF_1.0.safetensors": "https://drive.usercontent.google.com/download?id=1RFoWxZxC4ZEBLtFTLT8-Z0RRnx1LXrCt&export=download&authuser=2&confirm=t&uuid=210a276f-bdd9-488b-869d-238f7e335157&at=AN_67v37cSE8czcCkbYiQoM1Q6PW:1729450081764"
+        "Expressive_H-000001.safetensors": "https://drive.usercontent.google.com/download?id=1yfHX137eYuOs7i3eDrQjLOzlwGyiZdeX&export=download&authuser=2&confirm=t&uuid=66be1f4b-9f5b-45d3-be0c-9450fa380d72&at=APvzH3o6KJrAxsO1Fi6x2DtzNFKc:1735676501268",
+        "Gegera_Pony.safetensors": "https://drive.usercontent.google.com/download?id=1r9S3zaaZLxzMoL_gEyGfMb7uEhdyAv3m&export=download&authuser=2&confirm=t&uuid=5c9d6e7e-3bcb-4cef-bc36-4339a6ee8ef2&at=APvzH3oyBHP8x1Xuu1r42EXl5_P9:1735676705466",
+        "oppai_v0.1-pony.safetensors": "https://drive.usercontent.google.com/download?id=1ooSj0E-Z5HYo6qxYqLVFinVG93ZJFXnW&export=download&authuser=2&confirm=t&uuid=bce3dfbf-632b-4bf4-83f4-4a6ed5a0221f&at=APvzH3oinlHvX-_-3v1fToOQE-Rr:1735676885066",
+        "titfuck_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1e0WIMWl__zi8_d_T1BDwNNzR_7FPVYfj&export=download&authuser=2&confirm=t&uuid=8036565b-5ccf-4d3b-983e-73337ac9b2db&at=APvzH3qhT7pylZzLzKDwQysQbsDU:1735676986528",
+        "Penis Size_alpha1.0_rank4_noxattn_last.safetensors": "https://drive.usercontent.google.com/download?id=1ZU0hYR4QHCzbe6tGQV36SEJ_GOFGsyDC&export=download&authuser=2&confirm=t&uuid=7d962d4f-13e1-4d65-a0d5-19c3946f0af8&at=APvzH3oRrhb6KApgLqup7NXLqqQ6:1735677125781",
+        "shirtup.safetensors": "https://drive.usercontent.google.com/download?id=1RPsEPmSegydO2gpjCNOkEqp3ilRutwpt&export=download&authuser=2&confirm=t&uuid=1313e307-5a77-4571-a021-3a66b240aa45&at=APvzH3rb8LxjhmLYb8_gg4Ep1H9u:1735677195040",
+        "Big_Saggy_Breasts_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1CtPT0fc9jdyfB_XADLssgv-cOgGWtNHq&export=download&authuser=2&confirm=t&uuid=12a2bb20-4b06-4d79-bc89-f0ac08e132c5&at=APvzH3pxVV-iDl64fkGB05KaTbwA:1735677241325"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
