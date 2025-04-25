@@ -1,6 +1,6 @@
 {
     "default_model": "juggernautXL_v8Rundiffusion.safetensors",
-    "default_refiner": "epicphotogasm_ultimateFidelity.safetensors",
+    "default_refiner": "pornmasterProV8_v8.safetensors",
     "default_refiner_switch": 0.4,
     "default_loras": [
         [
@@ -10,8 +10,8 @@
         ],
         [
             true,
-            "Expressive_H-000001.safetensors",
-            1.0
+            "photorealistic_nude.safetensors",
+            0.8
         ],
         [
             true,
@@ -19,13 +19,13 @@
             1.0
         ],
         [
-            false,
-            "Penis Size_alpha1.0_rank4_noxattn_last.safetensors",
-            -1.3
+            true,
+            "skin_texture_v2.safetensors",
+            0.8
         ],
         [
             false,
-            "titfuck_SDXL.safetensors",
+            "",
             1.0
         ]
     ],
@@ -45,7 +45,9 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "epicphotogasm_ultimateFidelity.safetensors": "https://drive.usercontent.google.com/download?id=1aMNoJp6CQ-OVtQklah6pBXhNj903PmqX&export=download&authuser=2&confirm=t&uuid=9c281202-a68f-4942-8ac4-4dca23a7eced&at=AN_67v2MCAaJ4sQmmN8BmJpw8YSO:1728764068965"
+        "sdxlPhotorealisticMix_v10.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/3349983/sdxlPhotorealisticMix.3vkJ.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22sdxlPhotorealisticMix_v10.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T220427Z&X-Amz-SignedHeaders=host&X-Amz-Signature=f0c7abf1dd5f9b321ebd045e7c70bfd4342200e0fb9345746f08b7e7a26dc6c0",
+        "eroticVision_v4.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/109630/model/eroticvisionV4.ERR4.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22eroticVision_v4.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T222148Z&X-Amz-SignedHeaders=host&X-Amz-Signature=50f8a30bb46f482cbb65460f2bcc82bd5cb8518031ba54417d32bf3090a0a7cb",
+        "pornmasterProV8_v8.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/73783/pornmasterProV8FP32.mp2X.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22pornmasterProV8_v8.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T222222Z&X-Amz-SignedHeaders=host&X-Amz-Signature=36b985c5c8a20a77255c768eabb9c1c51c55fd5921cd0d2dc2340c9d5e9efeb8"
     },
     "embeddings_downloads": {
         "easynegative.safetensors": "https://drive.usercontent.google.com/download?id=1C1O4GfGQ5FS-UXbd9Ssr9w1zLu6wXo45&export=download&authuser=0",
@@ -53,14 +55,9 @@
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "add_detail.safetensors": "https://drive.usercontent.google.com/download?id=1537mAk4n1D0uVOij7VNFEeQfo450cCMl&export=download&authuser=2&confirm=t&uuid=6477f5bd-c822-4481-915d-4f3af92d40ca&at=AN_67v0VtF4L1zpdaYMRf1VrYFON:1728763158918",
-        "Expressive_H-000001.safetensors": "https://drive.usercontent.google.com/download?id=1yfHX137eYuOs7i3eDrQjLOzlwGyiZdeX&export=download&authuser=2&confirm=t&uuid=66be1f4b-9f5b-45d3-be0c-9450fa380d72&at=APvzH3o6KJrAxsO1Fi6x2DtzNFKc:1735676501268",
-        "Gegera_Pony.safetensors": "https://drive.usercontent.google.com/download?id=1r9S3zaaZLxzMoL_gEyGfMb7uEhdyAv3m&export=download&authuser=2&confirm=t&uuid=5c9d6e7e-3bcb-4cef-bc36-4339a6ee8ef2&at=APvzH3oyBHP8x1Xuu1r42EXl5_P9:1735676705466",
-        "oppai_v0.1-pony.safetensors": "https://drive.usercontent.google.com/download?id=1ooSj0E-Z5HYo6qxYqLVFinVG93ZJFXnW&export=download&authuser=2&confirm=t&uuid=bce3dfbf-632b-4bf4-83f4-4a6ed5a0221f&at=APvzH3oinlHvX-_-3v1fToOQE-Rr:1735676885066",
-        "titfuck_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1e0WIMWl__zi8_d_T1BDwNNzR_7FPVYfj&export=download&authuser=2&confirm=t&uuid=8036565b-5ccf-4d3b-983e-73337ac9b2db&at=APvzH3qhT7pylZzLzKDwQysQbsDU:1735676986528",
-        "Penis Size_alpha1.0_rank4_noxattn_last.safetensors": "https://drive.usercontent.google.com/download?id=1ZU0hYR4QHCzbe6tGQV36SEJ_GOFGsyDC&export=download&authuser=2&confirm=t&uuid=7d962d4f-13e1-4d65-a0d5-19c3946f0af8&at=APvzH3oRrhb6KApgLqup7NXLqqQ6:1735677125781",
-        "shirtup.safetensors": "https://drive.usercontent.google.com/download?id=1RPsEPmSegydO2gpjCNOkEqp3ilRutwpt&export=download&authuser=2&confirm=t&uuid=1313e307-5a77-4571-a021-3a66b240aa45&at=APvzH3rb8LxjhmLYb8_gg4Ep1H9u:1735677195040",
-        "Big_Saggy_Breasts_SDXL.safetensors": "https://drive.usercontent.google.com/download?id=1CtPT0fc9jdyfB_XADLssgv-cOgGWtNHq&export=download&authuser=2&confirm=t&uuid=12a2bb20-4b06-4d79-bc89-f0ac08e132c5&at=APvzH3pxVV-iDl64fkGB05KaTbwA:1735677241325"
+        "skin_texture_v2.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/2331905/skinTextureV2.HAPd.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22skin_texture_v2.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T221329Z&X-Amz-SignedHeaders=host&X-Amz-Signature=d71e9d0d664179e29a0c5e118f1e49e5e873c9f85094d612b58e46c0f9f71efc",
+        "Big_Saggy_Breasts_SDXL.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/3326444/bigSaggyBreastsSDXL.mdYW.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22Big_Saggy_Breasts_SDXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T221347Z&X-Amz-SignedHeaders=host&X-Amz-Signature=068fb1d5913cd06a38145ecbbea613e0a3cff85cf285d91c4f6b2ea5456d624e",
+        "photorealistic_nude.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/2814/photorealisticNude.yGbN.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22photorealistic_nude.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20250425/us-east-1/s3/aws4_request&X-Amz-Date=20250425T221452Z&X-Amz-SignedHeaders=host&X-Amz-Signature=3e771d4c2cf2ed8b17c7b31949f4f3e15383bc4e8bd4aac21015de4452531d10"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
